@@ -9,7 +9,7 @@ It's a website that has been designed to mimic the design of the popular Indian 
 ## 📌 **Live Site URL:** <a href="https://razorpay-copy.netlify.app/">**Visit Now** 🚀</a>
 
 <br>
-## 📌 **My Site URL:** <a href="">**Visit Now** 🚀</a>
+## 📌 **My Site URL:** <a href="https://vaidantgarg60.github.io/razorpay-clone/">**Visit Now** 🚀</a>
 
 <br>
 ## 📌 Tech Stack
