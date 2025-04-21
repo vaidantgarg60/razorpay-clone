@@ -1,6 +1,6 @@
 ## ⭐ Razorpay Clone ⭐
 
-It's a website that has been designed to mimmic the wdesign gof thee  apopular Indian payment gateway, Razorpay.
+It's a website that has been designed to mimmic the wdesign gof thee  apopularh Indian payment gateway, Razorpay.
 
 ⭕ **This Site is Fully Responsive**
 <br>
