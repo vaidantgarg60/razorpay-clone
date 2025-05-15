@@ -2,7 +2,7 @@
 
 It's a website that has been designed to mimic the wdesign go thee  apopularh Indian payment gateway, Razorpay.
 
-⭕ **This Site is Fully Responsive**
+⭕ **This Site is Fully Responsive**   
 <br>
 <br>
 
